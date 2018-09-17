@@ -1,0 +1,46 @@
+
+   
+body { 
+
+    background: url(https://blogsimages.adobe.com/creativecloud/files/2015/07/dw_blank-screen_scl.jpg)no-repeat center center fixed; 
+    /* background: url(https://caregivercircleaz.com/wp-content/uploads/2018/04/tablet-on-the-laptop-portable-laptop-table-ideas-Laptop-on-table-in-office-space-mockup.jpg) no-repeat center center fixed;  */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  .container {
+    width: 600;
+    padding-top:85px;
+    /* background: rgba(227, 204, 169, 0.85);
+    color:rgb(21, 19, 19); */
+    
+  }
+
+  .maincontainer{
+    /* background: rgba(194, 132, 38, 0.85); */
+      
+  }
+
+  .h6{
+    background: rgba(36, 36, 35, 0.85);
+    color:rgb(21, 19, 19);
+    margin-bottom:200px;
+  }
+  
+  h1{
+    background: rgba(164, 164, 157, 0.585);
+    color:rgb(21, 19, 19);
+    margin-top: 0px;
+  }
+
+  .header {
+      padding-top:40px;
+      padding-bottom: 30px;
+  }
+
+h6 {
+  padding-top: 50;
+  font-size: 8px;
+}
